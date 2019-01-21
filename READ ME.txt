@@ -1,0 +1,5 @@
+This is Rainbow Raider, a game developed in python
+===============================
+To run the game, ensure python 2.7 and all site packages are installed (PIL, pygame, tkinter and simpleGUI). Graphic assets must be in a folder C:/GJ Images. I do not own the rights on any of these images - they are used for educational purposes only. 
+
+-Kushal Dulla
